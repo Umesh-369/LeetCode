@@ -1,0 +1,40 @@
+class Solution {
+    public boolean search(int[] nums, int target) {
+      int n=nums.length;
+      int low=0;
+      int high=nums.length-1;
+      while(low<=high){
+        int mid=(low+high)/2;
+        if(nums[mid]==target){
+            return true;
+        }
+
+        if(nums[mid]==nums[low] && nums[mid]==nums[high]){
+            low++;
+            high--;
+            continue;
+        }
+          
+        // left part is sorted
+        if(nums[low]<=nums[mid]){
+            // target in left part
+            if(nums[low]<=target && target<nums[mid]){
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
+        }
+        else{
+            // right part
+            if(nums[mid]<target && target<=nums[high]){
+                low=mid+1;
+            }
+            else{
+                high=mid-1;
+            }
+        }
+      }   
+      return false;
+    }
+}
