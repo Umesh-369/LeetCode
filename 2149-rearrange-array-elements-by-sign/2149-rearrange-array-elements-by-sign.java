@@ -1,19 +1,19 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-         int n=nums.length;
-         int posind=0;
-         int negind=1;
-         int[] arr=new int[n];
-         for(int i=0;i<n;i++){
-            if(nums[i]<0){
-                arr[negind]=nums[i];
-                negind+=2;
+        int n=nums.length;
+        int[] arr=new int[n];
+        int even=0;
+        int odd=1;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>0){
+                  arr[even]=nums[i];
+                  even+=2;
             }
             else{
-                arr[posind]=nums[i];
-                posind+=2;
+                arr[odd]=nums[i];
+                odd+=2;
             }
-         }
-         return arr;
+        }
+        return arr;
     }
 }
