@@ -1,52 +1,51 @@
 class Solution {
-    public void setZeroes(int[][] mat) {
-        int m=mat.length;
-        int n=mat[0].length;
+    public void setZeroes(int[][] matrix) {
+        int m=matrix.length;
+        int n=matrix[0].length;
         boolean firstrow=false;
         boolean firstcol=false;
-        // 1st row
-        for(int j=0;j<n;j++){
-            if(mat[0][j]==0){
+        // first row
+        for(int i=0;i<n;i++){
+            if(matrix[0][i]==0){
                 firstrow=true;
                 break;
             }
         }
-        // 1st col
+        // first col
         for(int i=0;i<m;i++){
-            if(mat[i][0]==0){
+            if(matrix[i][0]==0){
                 firstcol=true;
                 break;
             }
         }
-        //find zeroes
+        // markers
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
-                if(mat[i][j]==0){
-                    mat[0][j]=0;
-                    mat[i][0]=0;
+                if(matrix[i][j]==0){
+                    matrix[i][0]=0;
+                    matrix[0][j]=0;
                 }
             }
-          } 
-        
-        // set markers zero
+        }
+        // set zero
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
-                if(mat[i][0]==0 || mat[0][j]==0){
-                    mat[i][j]=0;
+                if(matrix[i][0]==0 || matrix[0][j]==0){
+                    matrix[i][j]=0;
                 }
             }
         }
 
         if(firstrow){
-            for(int j=0;j<n;j++){
-                mat[0][j]=0;
+            for(int i=0;i<n;i++){
+                matrix[0][i]=0;
             }
         }
-
         if(firstcol){
             for(int i=0;i<m;i++){
-                mat[i][0]=0;
+                matrix[i][0]=0;
             }
-        }       
+        }
+        
     }
-}   
+}
