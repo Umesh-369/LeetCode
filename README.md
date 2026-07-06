@@ -152,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Umesh-369/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Umesh-369/LeetCode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Umesh-369/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Umesh-369/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Umesh-369/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Umesh-369/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Umesh-369/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Umesh-369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Umesh-369/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Umesh-369/LeetCode/tree/master/0206-reverse-linked-list) |
