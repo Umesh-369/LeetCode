@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umesh-369/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Umesh-369/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Umesh-369/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Umesh-369/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Umesh-369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Umesh-369/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Umesh-369/LeetCode/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Umesh-369/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Umesh-369/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Umesh-369/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Umesh-369/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Umesh-369/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Umesh-369/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -243,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Umesh-369/LeetCode/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Umesh-369/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Umesh-369/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
