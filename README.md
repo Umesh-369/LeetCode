@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Umesh-369/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Umesh-369/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Umesh-369/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Umesh-369/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Umesh-369/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Umesh-369/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Umesh-369/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Umesh-369/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Umesh-369/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Umesh-369/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh-369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Umesh-369/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Umesh-369/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Umesh-369/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Umesh-369/LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Umesh-369/LeetCode/tree/master/1903-largest-odd-number-in-string) |
