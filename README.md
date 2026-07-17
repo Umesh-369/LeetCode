@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Umesh-369/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Umesh-369/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Umesh-369/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Umesh-369/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/Umesh-369/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 ## Depth-First Search
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Umesh-369/LeetCode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Umesh-369/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Umesh-369/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
