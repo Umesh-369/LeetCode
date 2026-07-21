@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Umesh-369/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Umesh-369/LeetCode/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Umesh-369/LeetCode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Umesh-369/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
