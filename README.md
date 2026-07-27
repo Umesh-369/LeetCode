@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh-369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Umesh-369/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Umesh-369/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Umesh-369/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Umesh-369/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Umesh-369/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Umesh-369/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -383,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh-369/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh-369/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
