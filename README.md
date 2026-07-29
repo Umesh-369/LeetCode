@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Umesh-369/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Umesh-369/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Umesh-369/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Umesh-369/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh-369/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Umesh-369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Umesh-369/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Umesh-369/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Umesh-369/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Umesh-369/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Umesh-369/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Umesh-369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Umesh-369/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh-369/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Umesh-369/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh-369/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Brainteaser
 |  |
