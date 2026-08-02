@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Umesh-369/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Umesh-369/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Umesh-369/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Umesh-369/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Umesh-369/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Umesh-369/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh-369/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Umesh-369/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Umesh-369/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Umesh-369/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Umesh-369/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Umesh-369/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Umesh-369/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Umesh-369/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Umesh-369/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Umesh-369/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
