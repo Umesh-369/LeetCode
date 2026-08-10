@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Umesh-369/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Umesh-369/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Umesh-369/LeetCode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Umesh-369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Umesh-369/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Umesh-369/LeetCode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Umesh-369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Umesh-369/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Umesh-369/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
