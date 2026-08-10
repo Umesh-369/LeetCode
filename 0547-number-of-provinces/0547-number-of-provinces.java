@@ -1,41 +1,62 @@
 class Solution {
     
-    public void dfs(int node,List<List<Integer>> graph,boolean[] visited){
-    visited[node]=true;
+    // public void dfs(int node,List<List<Integer>> graph,boolean[] visited){
+    // visited[node]=true;
 
-    for(int neighbour:graph.get(node)){
-        if(!visited[neighbour]){
-          dfs(neighbour,graph,visited);
-        }
-    }
-    }
+    // for(int neighbour:graph.get(node)){
+    //     if(!visited[neighbour]){
+    //       dfs(neighbour,graph,visited);
+    //     }
+    // }
+    // }
 
     public int findCircleNum(int[][] isConnected) {
+        // int n=isConnected.length;
+        // List<List<Integer>> graph=new ArrayList<>();
+
+        // for(int i=0;i<n;i++){
+        //     graph.add(new ArrayList<>());
+        // }
+
+        // for(int i=0;i<n;i++){
+        //   for(int j=0;j<n;j++){
+        //     if(isConnected[i][j]==1 && i!=j){
+        //         graph.get(i).add(j);
+             
+        //     }
+        //   }
+        // }
+
+        // boolean[] visited=new boolean[n];
+        // int count=0;
+
+        // for(int i=0;i<n;i++){
+        //     if(visited[i]){
+        //         dfs(i,graph,visited);
+        //         count++;
+        //     }
+        // }
+
+        // return count;
         int n=isConnected.length;
-        List<List<Integer>> graph=new ArrayList<>();
-
-        for(int i=0;i<n;i++){
-            graph.add(new ArrayList<>());
-        }
-
-        for(int i=0;i<n;i++){
-          for(int j=0;j<n;j++){
-            if(isConnected[i][j]==1 && i!=j){
-                graph.get(i).add(j);
-            }
-          }
-        }
-
-        boolean[] visited=new boolean[n];
         int count=0;
-
+        boolean[] visited=new boolean[n];
         for(int i=0;i<n;i++){
-            if(!visited[i]){
-                dfs(i,graph,visited);
-                count++;
+           if(!visited[i]){
+            dfs(i,isConnected,visited);
+            count++;
+           }
+        }
+        return count;
+    }
+
+    public void dfs(int node,int[][] isConnected,boolean[] visited){
+        visited[node]=true;
+        int n=isConnected.length;
+        for(int i=0;i<n;i++){
+            if(!visited[i] && isConnected[node][i]==1){
+                dfs(i,isConnected,visited);
             }
         }
-
-        return count;
     }
 }
