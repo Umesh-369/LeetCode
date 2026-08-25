@@ -1,10 +1,10 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        ArrayList<Integer> li=new ArrayList<>();
+        Set<Integer> set=new HashSet<>();
 
         int n=nums.length;
         for(int i=0;i<n;i++){
-            li.add(nums[i]);
+            set.add(nums[i]);
         }
 
         int ans=0;
@@ -12,7 +12,7 @@ class Solution {
         int i=1;
         while(true){
            temp=k*i;
-           if(!li.contains(temp)){
+           if(!set.contains(temp)){
             ans=temp;
             break;
            }
