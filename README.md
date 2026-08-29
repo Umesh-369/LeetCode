@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Umesh-369/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Umesh-369/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Umesh-369/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Umesh-369/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh-369/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Umesh-369/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Umesh-369/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Umesh-369/LeetCode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Umesh-369/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Umesh-369/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Umesh-369/LeetCode/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/Umesh-369/LeetCode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
