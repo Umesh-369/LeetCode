@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Umesh-369/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Umesh-369/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh-369/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Umesh-369/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Umesh-369/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Umesh-369/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Umesh-369/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Umesh-369/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Umesh-369/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Umesh-369/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Umesh-369/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Umesh-369/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Umesh-369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Umesh-369/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Umesh-369/LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Umesh-369/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Umesh-369/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Umesh-369/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Umesh-369/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Umesh-369/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
