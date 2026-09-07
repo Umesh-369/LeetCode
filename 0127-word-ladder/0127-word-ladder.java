@@ -1,50 +1,41 @@
 class Solution {
     public int ladderLength(String beginword, String endWord, List<String> wordList) {
-        Queue<pair<String,Integer>> q=new LinkedList<>();
+        Queue<String> q=new LinkedList<>();
         Set<String> set=new HashSet<>(wordList);
-
-        q.add(new pair<>(beginword,1));
+         if(!set.contains(endWord))return 0;
+        q.add(beginword);
         set.remove(beginword);
 
-        while(!q.isEmpty()){
-          String word=q.peek().getkey();
-          int steps=q.peek().getvalue();
-          q.poll();
+        int level=1;
+        while(!q.isEmpty()){ 
+           int size=q.size();
+           for(int k=0;k<size;k++){
+            String word=q.poll();
 
-          if(word.equals(endWord)){
-            return steps;
-          }
+            if(word.equals(endWord)){
+                return level;
+            }
+             char[] arr=word.toCharArray();
+            for(int i=0;i<word.length();i++){
+                char original=arr[i];
 
-          for(int i=0;i<word.length();i++){
-           char[] arr=word.toCharArray();
-            char original=arr[i];
-          for(char ch='a';ch<='z';ch++){
-            arr[i]=ch;
-            String newword=new String(arr);
-            if(set.contains(newword)){
-                set.remove(word);
-                q.add(new pair<>(newword,steps+1));
+                for(char ch='a';ch<='z';ch++){
+                    if(original==ch){
+                        continue;
+                    }
+
+                    arr[i]=ch;
+                    String newword=new String(arr);
+                    if(set.contains(newword)){
+                        q.add(newword);
+                        set.remove(newword);
+                    }
+                }
+              arr[i]=original;
              }
            }
-          arr[i]=original;
-          }
+           level++;
         }
        return 0;
-    }
-    class pair<k,v>{
-        private k key;
-        private v value;
-        pair(k key,v value){
-            this.key=key;
-            this.value=value;
-        }
-     
-      public k getkey(){
-        return key;
-      }
-
-      public v getvalue(){
-        return value;
-      }
     }
 }
