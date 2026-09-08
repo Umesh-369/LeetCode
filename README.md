@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Umesh-369/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Umesh-369/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Umesh-369/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3870-count-commas-in-range](https://github.com/Umesh-369/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Umesh-369/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
