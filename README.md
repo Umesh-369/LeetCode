@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Umesh-369/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Umesh-369/LeetCode/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Umesh-369/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Umesh-369/LeetCode/tree/master/1922-count-good-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Umesh-369/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Umesh-369/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Umesh-369/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Umesh-369/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Umesh-369/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Umesh-369/LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Umesh-369/LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
