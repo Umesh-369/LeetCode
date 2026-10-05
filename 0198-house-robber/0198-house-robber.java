@@ -1,17 +1,20 @@
 class Solution {
+    public int f(int index,int[] nums,int[] dp){
+     if(index==0)return nums[index];
+     if(index<0) return 0;
+     if(dp[index]!=-1)return dp[index];
+
+     int pick=nums[index]+f(index-2,nums,dp);
+     int notpick=0+f(index-1,nums,dp);
+
+     dp[index]=Math.max(pick,notpick);
+     return dp[index];
+    }
+
     public int rob(int[] nums) {
-        int prev2 = 0; // Best total up to 2 houses back
-        int prev1 = 0; // Best total up to 1 house back
-
-        for (int num : nums) {
-            // Compare robbing this house vs. skipping this house
-            int current = Math.max(prev2 + num, prev1);
-            
-            // Move our pointers forward for the next house
-            prev2 = prev1;
-            prev1 = current;
-        }
-
-        return prev1; // Final answer after checking all houses
+        int n=nums.length;
+        int[] dp=new int[n];
+        Arrays.fill(dp,-1);
+        return f(n-1,nums,dp);
     }
 }
