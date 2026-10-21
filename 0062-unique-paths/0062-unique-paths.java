@@ -1,24 +1,27 @@
 class Solution {
-    public int uniquePaths(int m, int n) {
-      int[][] dp=new int[m][n];
-      for(int i=0;i<m;i++){
-        for(int j=0;j<n;j++){
-            dp[i][j]=-1;
-        }
-      }
-      return solve(m-1,n-1,dp);
+
+    public int solve(int i,int j,int[][] dp){
+        if(i==0 && j==0)return 1;
+        if(i<0 || j<0)return 0;
+        if(dp[i][j]!=-1)return dp[i][j];
+
+
+        int up=solve(i-1,j,dp);
+        int left=solve(i,j-1,dp);
+        dp[i][j]=up+left;
+
+        return dp[i][j];
+        
     }
 
-    public int solve(int m,int n,int[][] dp){
 
-        if(m==0 && n==0)return 1;
-        if(m<0 || n<0)return 0;
-        if(dp[m][n]!=-1)return dp[m][n];
-       
-        int up=solve(m-1,n,dp);
-        int left=solve(m,n-1,dp);
-
-        dp[m][n]=up+left;
-        return dp[m][n];
+    public int uniquePaths(int m, int n) {
+        int[][] dp=new int[m][n];
+        for(int i=0;i<dp.length;i++){
+            for(int j=0;j<dp[i].length;j++){
+                dp[i][j]=-1;
+            }
+        }
+        return solve(m-1,n-1,dp);
     }
 }
